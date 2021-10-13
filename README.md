@@ -20,4 +20,4 @@ ssa_class.py
 Python class for singular spectrum analysis of time series
 
 interpolate_nkg2016lu.py
-Script for computing vertical land motion (VLM) for study point from the NKG2016LU VLM-model.
+Script for computing vertical land motion from the NKG2016LU VLM-model.
