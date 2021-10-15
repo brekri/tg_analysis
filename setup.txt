@@ -1,0 +1,33 @@
+# 1  staid
+# 2  name
+# 3  longitude
+# 4  latitude
+# 5  hdot_nkg2016lu
+# 6  sigma_hdot_vestol
+# 7  gdot
+# 8  sigma_gdot
+# 9  county
+# 10 filename_annual
+oslo Oslo        10.734510   59.908559 5.04 0.16 0.4465 0.0217  301 /home/brekri/data/tg/20210830_psmsl_annual/62.rlrdata     
+osca Oscarsborg  10.604861   59.678073 4.65 0.16 0.4465 0.0217  215 /home/brekri/data/tg/20210830_psmsl_annual/33.rlrdata     
+vike Viker       10.949769   59.036046 4.25 0.17 0.3879 0.0195  111 /home/brekri/data/tg/20210830_psmsl_annual/1759.rlrdata   
+helg Helgeroa     9.856379   58.995212 3.64 0.16 0.3647 0.0203  709 /home/brekri/data/tg/20210830_psmsl_annual/1113.rlrdata  
+treg Tregde       7.554759   58.006377 1.68 0.16 0.2429 0.0223 1002 /home/brekri/data/tg/20210830_psmsl_annual/302.rlrdata    
+stav Stavanger    5.730121   58.974339 1.59 0.18 0.2610 0.0240 1103 /home/brekri/data/tg/20210830_psmsl_annual/47.rlrdata     
+berg Bergen       5.320487   60.398046 1.78 0.18 0.2633 0.0257 1201 /home/brekri/data/tg/20210830_psmsl_annual/58.rlrdata     
+malo Måløy        5.113310   61.933776 1.33 0.22 0.2962 0.0267 1439 /home/brekri/data/tg/20210830_psmsl_annual/486.rlrdata    
+ales Ålesund      6.151946   62.469414 1.61 0.19 0.3331 0.0256 1504 /home/brekri/data/tg/20210830_psmsl_annual/509.rlrdata    
+krin Kristiansund 7.734352   63.113859 2.30 0.21 0.4087 0.0250 1505 /home/brekri/data/tg/20210830_psmsl_annual/682.rlrdata    
+maus Mausund      8.665230   63.869330 2.48 0.19 0.4329 0.0246  NaN NaN                                                       
+heim Heimsjø      9.101504   63.425224 3.27 0.18 0.4483 0.0246 1612 /home/brekri/data/tg/20210830_psmsl_annual/313.rlrdata    
+tron Trondheim   10.391669   63.436484 4.66 0.16 0.4872 0.0245 1601 /home/brekri/data/tg/20210830_psmsl_annual/1748_34.rlrdata
+rorv Rørvik      11.230107   64.859456 4.14 0.19 0.4909 0.0271 1750 /home/brekri/data/tg/20210830_psmsl_annual/1241.rlrdata   
+bodo Bodø        14.390813   67.288290 3.92 0.19 0.5170 0.0314 1804 /home/brekri/data/tg/20210830_psmsl_annual/562.rlrdata    
+ande Andenes     16.134848   69.326067 1.69 0.22 0.4530 0.0354 1871 /home/brekri/data/tg/20210830_psmsl_annual/425.rlrdata    
+kabe Kabelvåg    14.482149   68.212639 2.56 0.22 0.4893 0.0332 1865 /home/brekri/data/tg/20210830_psmsl_annual/45.rlrdata     
+hars Harstad     16.548236   68.801261 3.08 0.23 0.4765 0.0352 1901 /home/brekri/data/tg/20210830_psmsl_annual/681.rlrdata    
+narv Narvik      17.425759   68.428286 4.48 0.19 0.5437 0.0331 1805 /home/brekri/data/tg/20210830_psmsl_annual/312.rlrdata    
+trom Tromsø      18.961323   69.647424 2.91 0.19 0.4475 0.0364 1902 /home/brekri/data/tg/20210830_psmsl_annual/680.rlrdata    
+hamm Hammerfest  23.683227   70.664641 2.64 0.22 0.4344 0.0371 2004 /home/brekri/data/tg/20210830_psmsl_annual/758.rlrdata    
+honn Honningsvåg 25.972697   70.980318 2.54 0.24 0.4424 0.0369 2019 /home/brekri/data/tg/20210830_psmsl_annual/1267.rlrdata   
+vard Vardø       31.104015   70.374978 3.09 0.27 0.4784 0.0351 2002 /home/brekri/data/tg/20210830_psmsl_annual/524.rlrdata    
