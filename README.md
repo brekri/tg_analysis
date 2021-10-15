@@ -21,3 +21,6 @@ Python class for singular spectrum analysis of time series
 
 interpolate_nkg2016lu.py
 Script for computing vertical land motion from the NKG2016LU VLM-model.
+
+tglib.py
+Parsers for tide gauge observation files, ERA5-data etc. 
